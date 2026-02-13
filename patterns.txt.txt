@@ -1,0 +1,12 @@
+union
+select
+admin
+drop
+delete
+insert
+update
+password
+login
+root
+exec
+shutdown
